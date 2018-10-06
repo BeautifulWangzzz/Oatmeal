@@ -1,0 +1,6 @@
+<structures>
+    <structure>
+        <name>PrintFunction</name>
+        <class-name>com.plum.oatmeal.function.PrintFunction</class-name>
+    </structure>
+</structures>

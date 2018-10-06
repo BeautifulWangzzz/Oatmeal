@@ -1,0 +1,6 @@
+<structures>
+    <structure>
+        <name>LoopStructure</name>
+        <class-name>com.plum.oatmeal.core.base.LoopStructure</class-name>
+    </structure>
+</structures>
